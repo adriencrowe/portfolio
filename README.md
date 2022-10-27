@@ -9,6 +9,6 @@
 
 
 # Projects
-## [Assignment Details](assignment_detail.md)
+- ### [Assignment Details](assignment_detail.md)
 
-- ## Critique 1
+  - ## Critique 1
