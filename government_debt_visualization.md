@@ -1,5 +1,7 @@
 # <strong>Visualizing Government Debt<strong>
   
+- [Government Debt Master CSV](government_debt_ master.csv)
+  
 ### Status Quo:
   
   <iframe src="https://data.oecd.org/chart/6S0A" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6S0A" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>
@@ -16,7 +18,3 @@
     - It's worth noting that for both the Americas and Europe, the Covid-19 Pandemic has had a greater impact on government debt levels than during the 2008 financial crisis. At that time, the ratio increased by 15% and 17% respectivelly from 2007 to 2009 for the Americas and Europe. During the Covid-19 Pandemic, government debt increased by 19% and 18% respectively for the Americas and Europe. It is also worth noting that government debt started at a more elevated level during the most recent uptick. In 2019, government debt was at 89% and 80% of GDP for the Americas and Europe while in 2007 government debt was at 53% and 54% respectivelly. Both the relative increase and the high starting levels indicate poor economic trends leading up to and following the Covid-19 Pandemic.
   
   <div class="flourish-embed flourish-chart" data-src="visualisation/11692050"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-  
-
-- [Government Debt Master CSV](government_debt_ master.csv)
-  
