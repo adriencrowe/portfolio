@@ -1,7 +1,11 @@
 # <strong>Visualizing Government Debt<strong>
   
 - [Government Debt Master Dataset](government_debt_master.xlsx)
+##### This project is meant to capture the effects on storytelling of redesigning a data visualization. In the status quo visual below, we are provided with a single year bar chart of debt-GDP ratios for a number of countries. While this visualization does make it fairly clear which countries have larger debt and which have smaller debt, there is much to be desired. Specifically, the viewer is given no context as to how each countries' debt got to the level it is today.
+##### In the second visualization, the debt ratios have been broken out by country and depicted over a period of time as sparkline graphs. In this way, the viewer can better understand overall trends in debt overtime, as well as which countries have deviated from the norm or average overtime. With that said, this visualization does not focus the viewers attention very well and it may be difficult to pick up on these trends.
+##### The third visualization attempts to highlight a couple of over-arching regions to better understand the aggregated effect of two events, the 2008 financial crisis and the Covid-19 Pandemic, on debt levels. To tell this story, countries have been aggregated by region using a country map which has been provided above. Then debt ratios were averaged across these regions, and the Americas and Europe were highlighted to focus in on two of the largest economies around the globe.
 
+##### Read on for more details on each visualization!
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 ### Status Quo:
