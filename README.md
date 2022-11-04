@@ -14,7 +14,11 @@
 - ### Please see the [Assignment Details](assignment_detail.md) page for additional details on each project
 
   - ## [Visualizing Government Debt](government_debt_visualization.md)
-    - Data Visualizations of government debt tend to display data in bar charts making it difficult to understand trends over time by country.
-    - <iframe src="https://data.oecd.org/chart/6S0N" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6S0N" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>
-    - It is possible to display this data in a more useful way by using [sparklines](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR).
-    - <div class="flourish-embed flourish-chart" data-src="visualisation/11691730"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+- Data Visualizations of government debt tend to display data in bar charts making it difficult to understand trends over time by country.
+
+<iframe src="https://data.oecd.org/chart/6S0N" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6S0N" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>
+
+- It is possible to display this data in a more useful way by using [sparklines](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR).
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11691730"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
