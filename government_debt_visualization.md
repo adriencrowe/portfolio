@@ -10,4 +10,9 @@
   
   
   <div class="flourish-embed flourish-chart" data-src="visualisation/11691730"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+ 
+### Creating A New Story From The Data:
+  - In this final design, I have grouped countries by region (Americas, Europe, Asia, Africa, and Oceania), and aggregated GDP-Debt ratios within these over-arching regions. The story here is directly related to the Covid-19 Pandemic, and it's effect global markets. While all markets were effected by this pandemic, I largely wanted to focus on the Americas and Europe, as these were two of the hardest hit areas around the globe. Additionally, they account for much of the global GDP. Therefore, I have designed this visualization to highlight the GDP-Debt ratio for the Americas as well as Europe, but still included the other regions as controls or additional datapoints for comparison.
+  
+  <div class="flourish-embed flourish-chart" data-src="visualisation/11692050"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
