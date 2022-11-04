@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Visualizing Debt Over Time:
-  - In this redesign, I have taken the data presented by OECD, and redesigned it to depict the change in the GDP-Debt ratio over time by country. This allows the viewer to see at the country level how trends in debt have been changing over time since the 90s.
+  - In this redesign, I have taken the data presented by OECD, and redesigned it to depict the change in the GDP-Debt ratio over time by country. This allows the viewer to see at the country level how trends in debt have been changing over time since the 90s. Seeing these trends provides more context into how each country got the the level of debt it is at today. It also provides context into specific periods of time throughout recent history during which debt was elevated across the globe (I.e. the 2008 financial crisis) which may feel highly localized or at least nationalized for many people when in reality these events have global impacts in the 21st century.
   
   
   <div class="flourish-embed flourish-chart" data-src="visualisation/11691730"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
