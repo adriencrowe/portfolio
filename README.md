@@ -1,4 +1,4 @@
-![Portland Skyline](skyline-portland.jpeg)
+![Portland Skyline](portland.jpeg)
 
 # My Portfolio
   - ### this is my portfolio for data vizualization projects!
