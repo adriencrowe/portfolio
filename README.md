@@ -14,4 +14,4 @@
 - ### Please see the [Assignment Details](assignment_detail.md) page for additional details on each project
 
   - ## [Visualizing Government Debt](government_debt_visualization.md)
-  - ## [Tableau Demo](tableau-demo.md)
+  - ## [Tableau Demo](tableau_demo.md)
