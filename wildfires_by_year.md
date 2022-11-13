@@ -12,7 +12,7 @@
   - I want to depict the growth of these fires overtime. One option is to create a dot chart with the number of acres burned on one axis and years on the other. There are a number of ways to depict the increase here. First, the chart itself would show the change. In addition, I can use color or size to depict the increase over time. Finally, I could highlight a certain subset of years to show that many of the worst years have happened most recently. 
   - The following wireframe project depicts my conceptual ideas for this idea. Overall, I want to highlight the up and to the right trend in the datapoints which clearly depicts a growing problem over time. I've also used size in both charts to depict the size of the fires growing over time. Though utilizing size in dot charts can be problematic as it's hard to decipher scale, I think that in this case it is simply reinforcing the trend that's clearly depicted by the graphic itself. I also included a trend line in one graphic to further drive home the point that wildfires are increasing in size over time. While trend lines are a more complex concept, I think in this visualization it's fairly clear what the line is representing. 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FohREmr6K8g1wOo802yddTJ%2FUntitled%3Fnode-id%3D0%253A1%26t%3D7707J7xzM35PHmlE-1" allowfullscreen></iframe>
+![Wireframe of Data Redesign Concept](https://user-images.githubusercontent.com/97984051/201532717-0601ba85-efed-4592-a314-511f9f78229a.png)
 
 ### - Feedback on Redesign Concept
   - placeholder
