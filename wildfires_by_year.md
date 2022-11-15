@@ -15,7 +15,7 @@
 ![Wireframe of Data Redesign Concept](https://user-images.githubusercontent.com/97984051/201532717-0601ba85-efed-4592-a314-511f9f78229a.png)
 
 ### - Feedback on Redesign Concept
-  - I interviewed two women age 25 and age 23. below is their responses synthesized on based on common responses.
+  - I interviewed two women age 25 and age 23. below is their responses synthesized based on common responses.
 
 **Can you tell me what you think this visualization is depicting?**
 
