@@ -16,3 +16,4 @@
   - ## [Visualizing Government Debt](government_debt_visualization.md)
   - ## [Tableau Demo](tableau_demo.md)
   - ## [Visual Design Critique](wildfires_by_year.md)
+  - ## [Final Project Part I](final_part_i.md)
