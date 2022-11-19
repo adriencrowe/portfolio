@@ -10,4 +10,5 @@ Visualizing Housing Inequality in The Portland Metro Area
   
 </h2>
 
-## placeholder
+### Project Outline
+##### - The goal of this project is to highlight 
