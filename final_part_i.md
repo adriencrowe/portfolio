@@ -15,6 +15,7 @@ Visualizing Housing Inequality in The Portland Metro Area
 #### Summary
    - The goal of this project is to highlight the growing level of housing inequality in the greater Portland Metro Area. Housing inequality impacts certain neighborhoods to a greater degree than others in the region. This is a trend that has not been properly explored with data. There have been many anecdotal discussions about the rising level of inequality in Portland, Oregon, but policy makers in the region have failed to clearly depict where the issue is most prevelant.
    - I want to tell this story through a combination of geographic and chart data visualizations. Geographic data visuals will help depict the overall trend of housing inequities in the region, while additional charts and graphics will highlight specific neighborhoods and demographic groups to help explain the disparities more specifically. Below is my outlined story flow.
+
 #### Story Flow
 1. Introduction to Portland Demographics
     - geographic data on total population, population by race, household sizes, income, etc by neighborhood
