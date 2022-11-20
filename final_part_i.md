@@ -25,5 +25,12 @@ Visualizing Housing Inequality in The Portland Metro Area
     - Looking at low-income housing data, immpact by neighborhood
 4. How community members can address housing inequlaity in the region
     - Call to Action: Elect leaders who support affordable housing investment and construction
+#### Sketches
+
+
+#### Data
+
+
+#### Method and Medium
 
 
