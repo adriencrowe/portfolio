@@ -9,3 +9,7 @@ Final Project Part II
 Visualizing Housing Inequality in The Portland Metro Area
   
 </h2>
+
+#### Wireframes
+
+1. Visualizing Overall Population Trends
