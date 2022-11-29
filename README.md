@@ -26,3 +26,4 @@ In this class, I hope to learn proper design techniques to improve my data visua
   - ## [Tableau Demo](tableau_demo.md)
   - ## [Visual Design Critique](wildfires_by_year.md)
   - ## [Final Project Part I](final_part_i.md)
+  - ## [Final Project Part II](final_part_ii.md)
