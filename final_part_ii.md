@@ -69,4 +69,6 @@ Visualizing Housing Inequality in The Portland Metro Area
 | What from the visualizations was most surprising to you?      |  something      |
 | What feelings come up when looking through the visualizations?   | Text        |
 | Do those feelings remain constant throughout, or change? | Text |
-
+| Which Visualization is least clear to you? | Something |
+| What seems to be the overall message from the visuals? | Something |
+| How would you want to address this issue? | Something |
