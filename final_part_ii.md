@@ -54,3 +54,11 @@ Visualizing Housing Inequality in The Portland Metro Area
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+## User Research Protocall
+
+### Target Audience
+  - My Primary audience for this visualization project will be residents living in Portland, Oregon. It is my belief that many people living in the city do not fully understand the scope of this issue because of the geographic, racial, and income boundaries which I've outlined above. (Ie affluent White people tend to live in the city core and do not experience high rent burdens while poorer and majority minority groups tend to live in the city perimiter and face large rent burdens). 
+
+### Sample Procurement Process
+  - Obviously, living on the opposite side of the country will make it difficult to find a representative sample for this issue. However, this same pattern repeats itself across the country in urban areas, so interviewing individuals from medium sized cities in the US should provide a similar sample, on average ([Fischer et al., 2003](https://www.jstor.org/stable/25067394#metadata_info_tab_contents).
