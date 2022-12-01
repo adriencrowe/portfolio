@@ -77,3 +77,24 @@ Visualizing Housing Inequality in The Portland Metro Area
 
 ### Feedback
   - I interviewed two women. one 25 and White, and the other 23 and Black
+1.	Logical researcher might already know these findings
+a.	Educational outcomes for minorities was suprising, how large the gap was
+b.	The rent spending gap was less surprising
+2.	Affirming your concerns, more confidence in held understanding
+a.	Upsetting, inspired to make change
+3.	Feelings got stronger
+a.	The first three felt contextual
+b.	The other vidualizations showed the issue so got more upset
+c.	Angwy
+4.	The top 20 minorities income to rent
+a.	Lots of information to consider at once
+b.	Present some of the information in an easier way
+c.	Percentages vs total population? A little confusing
+5.	Two messages: 1. Areas with higher minority populations spend more income on rent 
+a.	Same areas are actually large in comparison to city population
+6.	Quickest fix could be to try and raise incomes, UBI, increase minimum wage
+a.	Give more affordable housing (doesn’t always work)
+b.	Focus on improving educational outcomes (long term solution)
+7.	See trend of things over time
+a.	Another map of affordable units
+b.	More clarity on the titles
