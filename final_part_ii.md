@@ -65,11 +65,15 @@ Visualizing Housing Inequality in The Portland Metro Area
 
 ### Interview Script
 
-| Goal      | Feedback |
+| Question    | Goal |
 | ----------- | ----------- |
-| What from the visualizations was most surprising to you?      |  something      |
-| What feelings come up when looking through the visualizations?   | Text        |
-| Do those feelings remain constant throughout, or change? | Text |
-| Which Visualization is least clear to you? | Something |
-| What seems to be the overall message from the visuals? | Something |
-| How would you want to address this issue? | Something |
+| What from the visualizations was most surprising to you?      |  Gets at the most shocking/lasting information      |
+| What feelings come up when looking through the visualizations?   | Helps understand the emotional pull from the data        |
+| Do those feelings remain constant throughout, or change? | Understanding the flow of the story |
+| Which Visualization is least clear to you? | Understanding where my visualizations are lacking |
+| What seems to be the overall message from the visuals? | Is the messaging clear to the viewer |
+| How would you go about trying to address this issue? | User research into how the audience WANTS to approach to problem, informing my call to action |
+| What additional information would you like to accompany these visualizations to improve the clarity? | What kinds of text/research should accompany these visuals in shorthand |
+
+### Feedback
+  - I interviewed two women. one 25 and White, and the other 23 and Black
