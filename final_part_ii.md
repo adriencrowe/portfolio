@@ -64,6 +64,7 @@ Visualizing Housing Inequality in The Portland Metro Area
   - Obviously, living on the opposite side of the country will make it difficult to find a representative sample for this issue. However, this same pattern repeats itself across the country in urban areas, so interviewing individuals from medium sized cities in the US should provide a similar sample, on average ([Fischer et al., 2003](https://www.jstor.org/stable/25067394#metadata_info_tab_contents)). As such, I will attempt to target individuals in Pittsburgh who are either from the city, or moved from an proportionally sized city somewhere else in the US. It is also beneficial that many students at CMU come from affluent families ([NYT, 2017](https://www.nytimes.com/interactive/projects/college-mobility/carnegie-mellon-university)) because I will want to target this story to households in Portland unaffected by the issue but who have large political sway to improve outcomes.
 
 ### Interview Script
+
 | Goal      | Feedback |
 | ----------- | ----------- |
 | What from the visualizations was most surprising to you?      |  something      |
