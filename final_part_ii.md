@@ -55,6 +55,9 @@ Visualizing Housing Inequality in The Portland Metro Area
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+### Resolution
+  - I plan on creating a few more visualization to depict two possible solutions/calls to action on this issue. First, I wil depict how rent prices have increased over time. Second, I will depict how real wages have declined or remained stagnant for a vast share of the populous over the past several decades. Combined, these two trends have led to much of the housing and affordability crisis Portland faces. I will suggest bolstering funding for affordable housing in the short term and increasing access to higher education in the long term to address the problem.
+
 ## User Research Protocall
 
 ### Target Audience
@@ -98,3 +101,8 @@ b.	Focus on improving educational outcomes (long term solution)
 7.	See trend of things over time
 a.	Another map of affordable units
 b.	More clarity on the titles
+
+### Next Steps
+  - Make some changes to a few graphs to improve readability and reduce clutter
+  - Add visualizations about afforable housing distrobution in portland
+  - Begin forming the story in Shorthand 
