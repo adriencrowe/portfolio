@@ -14,7 +14,7 @@ Visualizing Housing Inequality in The Portland Metro Area
 
 ### Setup
   - My first visualization simply introduces the reader to Portland's overall population by neighborhood. This introduction is important as it serves as a basis for the rest of the story. For example, my findings show that high levels of rent burdened households live in higher population neighborhoods, so targeted funding in these neighborhoods could help address the issue.
-<div class='tableauPlaceholder' id='viz1669769852170' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CP&#47;CP9M944PP&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;CP9M944PP' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CP&#47;CP9M944PP&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
+<div class='tableauPlaceholder' id='viz1669769852170' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CP&#47;CP9M944PP&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;CP9M944PP' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CP&#47;CP9M944PP&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1669769852170');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
@@ -46,13 +46,15 @@ Visualizing Housing Inequality in The Portland Metro Area
 </script>
 
   - Next, I will begin showing coorelative relationships between nieghborhoods with high levels of minority population and rent burdened households. I've created a couple of different visualizations so far to depict this coorelation. I hope to test which is more effective in my interview stage, but also might use both as I feel they both tell an important part of the story.
-<script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
-
-
-<tableau-viz id="tableauViz"       
-  src='https://public.tableau.com/app/profile/adrien.crowe/viz/FinalVisuals_16696703764860/TotalWHitePopulationbyNeighborhood'      
-  toolbar="bottom" hide-tabs>
-</tableau-viz>
+<div class='tableauPlaceholder' id='viz1669939828988' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalVisuals_16696703764860&#47;Top20MinorityNeighborhoodsSpentaGreaterPercentageofIncomeonRent&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FinalVisuals_16696703764860&#47;Top20MinorityNeighborhoodsSpentaGreaterPercentageofIncomeonRent' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalVisuals_16696703764860&#47;Top20MinorityNeighborhoodsSpentaGreaterPercentageofIncomeonRent&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1669939828988');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 ### Resolution
   - I plan on creating a few more visualization to depict two possible solutions/calls to action on this issue. First, I wil depict how rent prices have increased over time. Second, I will depict how real wages have declined or remained stagnant for a vast share of the populous over the past several decades. Combined, these two trends have led to much of the housing and affordability crisis Portland faces. I will suggest bolstering funding for affordable housing in the short term and increasing access to higher education in the long term to address the problem.
