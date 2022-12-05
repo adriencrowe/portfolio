@@ -6,7 +6,8 @@ Final Project Part III
 
 <h2 align="center">
   
-Visualizing Housing Inequality in The Portland Metro Area
+Visualizing Housing Inequality in The Portland Metro Area <br>
+  [Part I](final_part_i.md) and [Part II](final_part_ii.md)
   
 </h2>
 
