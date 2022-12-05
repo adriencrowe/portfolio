@@ -10,6 +10,6 @@ Visualizing Housing Inequality in The Portland Metro Area
   
 </h2>
 
-## Final Deliverable
+## [Final Deliverable](https://carnegiemellon.shorthandstories.com/housing-affordability-crisis-in-portland-oregon/index.html)
 
   - I ended up 
