@@ -7,7 +7,8 @@ Final Project Part II
 <h2 align="center">
   
 Visualizing Housing Inequality in The Portland Metro Area <br>
-  [Part I](final_part_i.md) and [Part III](final_part_iii.md)
+
+ <a href="https://adriencrowe.github.io/Data-Visualization-Portfolio/final_part_i.html">Part I</a> and <a href="https://adriencrowe.github.io/Data-Visualization-Portfolio/final_part_iii.html">Part III</a>
   
 </h2>
 
